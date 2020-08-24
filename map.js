@@ -21,7 +21,6 @@ L.tileLayer(
     'https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
         maxZoom: 18,
         minZoom: 7,
-        maxBounds: [0,0],
         attribution: 'Map data &copy <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
             '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
             'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
@@ -31,7 +30,7 @@ L.tileLayer(
     }).addTo(myMap)
 
 //plot UBSs
-let radius = 1
+let radius = 50
 //CircleStyle
 function circleStyle() {
     return {
@@ -67,12 +66,13 @@ let options = {
 // add UBSs to the map
 let ubs = L.geoJSON(data, options).addTo(myMap)
 
-// update point with circle
-myMap.on("zoomend", () => {
-    let zoom, newRadius
-    zoom = myMap.getZoom()
-    newRadius = zoom * 2 - 6
-    radius = newRadius <= 0 ? 0 : newRadius
-    for (point of points)
-        point.setRadius(radius)
-})
+// update point size by zoom level
+// myMap.on("zoomend", () => {
+//     let zoom, newRadius
+//     zoom = myMap.getZoom()
+//     if (zoom > 7){
+//         newRadius = 100
+//     }
+//     for (point of points)
+//         point.setRadius(radius)
+// })
