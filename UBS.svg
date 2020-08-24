@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="10"
+   height="10"
+   viewBox="0 0 2.6458333 2.6458333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="UBS.svg">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath833">
+      <g
+         transform="translate(0,1.5e-6)"
+         inkscape:label="Clip"
+         id="use835">
+        <rect
+           rx="0.2"
+           ry="0.30000001"
+           y="294.35416"
+           x="1.0583333"
+           height="2.6458333"
+           width="0.52916664"
+           id="rect893"
+           style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" />
+        <rect
+           transform="rotate(90)"
+           style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect895"
+           width="0.52916664"
+           height="2.6458333"
+           x="295.41251"
+           y="-2.6458333"
+           ry="0.30000001"
+           rx="0.2" />
+      </g>
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath833-2">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g829-2"
+         id="use835-1"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath834">
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g829"
+         id="use836"
+         width="100%"
+         height="100%" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="45.254834"
+     inkscape:cx="-0.044001523"
+     inkscape:cy="4.8077409"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     borderlayer="false"
+     inkscape:showpageshadow="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:window-width="1360"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="shadow"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       id="g880"
+       style="fill:#ff0000">
+      <g
+         style="fill:#ff0000"
+         transform="translate(7.947284e-8,-294.35416)"
+         clip-path="url(#clipPath833-2)"
+         id="g831-4">
+        <g
+           style="fill:#ff0000"
+           id="g829-2"
+           inkscape:label="Clip">
+          <rect
+             style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             id="rect821-9"
+             width="0.52916664"
+             height="2.6458333"
+             x="1.0583333"
+             y="294.35416"
+             ry="0.30000001"
+             rx="0.2" />
+          <rect
+             rx="0.2"
+             ry="0.30000001"
+             y="-2.6458333"
+             x="295.41251"
+             height="2.6458333"
+             width="0.52916664"
+             id="rect825-0"
+             style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.32291663;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+             transform="rotate(90)" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     inkscape:label="red"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-294.35417)"
+     style="display:inline">
+    <g
+       id="g831"
+       clip-path="url(#clipPath834)"
+       style="fill:#ffffff;fill-opacity:1">
+      <g
+         inkscape:label="Clip"
+         id="g829"
+         style="fill:#ffffff;fill-opacity:1">
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.11667025;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect821"
+           width="0.39687499"
+           height="2.5135417"
+           x="1.1244792"
+           y="294.42032"
+           ry="0.28500003"
+           rx="0.15000004" />
+        <rect
+           transform="matrix(0,-1,-1,0,0,0)"
+           style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.11667025;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect821-1"
+           width="0.39687499"
+           height="2.5135417"
+           x="-295.87552"
+           y="-2.5796876"
+           ry="0.28500003"
+           rx="0.15000004" />
+      </g>
+    </g>
+  </g>
+</svg>
